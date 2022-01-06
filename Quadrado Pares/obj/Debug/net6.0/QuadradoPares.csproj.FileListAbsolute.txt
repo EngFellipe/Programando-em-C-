@@ -1,0 +1,15 @@
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.csproj.AssemblyReference.cache
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.AssemblyInfoInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.AssemblyInfo.cs
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\bin\Debug\net6.0\QuadradoPares.exe
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\bin\Debug\net6.0\QuadradoPares.deps.json
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\bin\Debug\net6.0\QuadradoPares.runtimeconfig.json
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\bin\Debug\net6.0\QuadradoPares.dll
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\bin\Debug\net6.0\ref\QuadradoPares.dll
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\bin\Debug\net6.0\QuadradoPares.pdb
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.dll
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\ref\QuadradoPares.dll
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.pdb
+E:\Meus Documentos\DIO\Programando em C#\Quadrado Pares\obj\Debug\net6.0\QuadradoPares.genruntimeconfig.cache

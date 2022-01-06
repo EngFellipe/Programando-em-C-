@@ -1,0 +1,30 @@
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.csproj.AssemblyReference.cache
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.AssemblyInfoInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.AssemblyInfo.cs
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\bin\Debug\net6.0\Programando em C#.exe
+E:\Meus Documentos\DIO\Programando em C#\bin\Debug\net6.0\Programando em C#.deps.json
+E:\Meus Documentos\DIO\Programando em C#\bin\Debug\net6.0\Programando em C#.runtimeconfig.json
+E:\Meus Documentos\DIO\Programando em C#\bin\Debug\net6.0\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\bin\Debug\net6.0\ref\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\bin\Debug\net6.0\Programando em C#.pdb
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\ref\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.pdb
+E:\Meus Documentos\DIO\Programando em C#\obj\Debug\net6.0\Programando em C#.genruntimeconfig.cache
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\bin\Debug\net6.0\Programando em C#.exe
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\bin\Debug\net6.0\Programando em C#.deps.json
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\bin\Debug\net6.0\Programando em C#.runtimeconfig.json
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\bin\Debug\net6.0\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\bin\Debug\net6.0\ref\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\bin\Debug\net6.0\Programando em C#.pdb
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.csproj.AssemblyReference.cache
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.AssemblyInfoInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.AssemblyInfo.cs
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\ref\Programando em C#.dll
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.pdb
+E:\Meus Documentos\DIO\Programando em C#\Sequência S\obj\Debug\net6.0\Programando em C#.genruntimeconfig.cache

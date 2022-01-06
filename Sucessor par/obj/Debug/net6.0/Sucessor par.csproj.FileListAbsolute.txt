@@ -1,0 +1,15 @@
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\bin\Debug\net6.0\Sucessor par.exe
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\bin\Debug\net6.0\Sucessor par.deps.json
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\bin\Debug\net6.0\Sucessor par.runtimeconfig.json
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\bin\Debug\net6.0\Sucessor par.dll
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\bin\Debug\net6.0\ref\Sucessor par.dll
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\bin\Debug\net6.0\Sucessor par.pdb
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.csproj.AssemblyReference.cache
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.AssemblyInfoInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.AssemblyInfo.cs
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.dll
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\ref\Sucessor par.dll
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.pdb
+E:\Meus Documentos\DIO\Programando em C#\Sucessor par\obj\Debug\net6.0\Sucessor par.genruntimeconfig.cache
